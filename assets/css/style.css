@@ -928,11 +928,11 @@ CSS DE ÁREAS ESPECÍFICAS
     }
     nav {
         display: none;
-    position: absolute;
-    background: rgba(0, 0, 0, 0.9);
-    top: 100px;
-    width: 80%;
-    height: calc(100vh - 100px);
+        position: absolute;
+        background: rgba(0, 0, 0, 0.9);
+        top: 100px;
+        width: 80%;
+        height: calc(100vh - 100px);
     }
     .menu ul {
         flex-direction: column;
