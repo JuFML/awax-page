@@ -30,7 +30,7 @@ header {
     border-radius:40px;
 }
 .menu-opener {
-    display:none;
+    display: none;
 }
 .menu {
     flex:1;
@@ -834,7 +834,7 @@ CSS DE ÁREAS ESPECÍFICAS
     .menu li a {
         font-weight: bold;
         height: 80px;
-        font-size: 27px;
+        font-size: 20px;
         margin-left: 50px;
         border: 0;
     }
