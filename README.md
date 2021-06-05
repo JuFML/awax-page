@@ -18,7 +18,7 @@
 
 ## 🔖&nbsp; About
 
-The Starbucks Page is a project created in a B7W Course to copy the Starbucks page only with HTML and CSS. It is a project created in order to put into practice all the content studied during the intire HTML e CSS course as well to practice the *flexbox*, *css grid* and *responsiveness* properties.
+The Awax Page is a project created in a B7W Course to make a full page with HTML, CSS and JavaScript. It is a project created in order to put into practice all the content studied during the intire HTML, CSS and a bit of JS course as well to practice the *flexbox*, *css grid*, *responsiveness* properties and *functions*.
 
 
 ---
