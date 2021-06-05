@@ -7,7 +7,7 @@
   </h1>
 
 <h3 align="center">
-    <a href="https://starbucks-pag.netlify.app/">Access demo page</a>
+    <a href="https://awax-page.netlify.app/">Access demo page</a>
 <h3 >
 
 # Index
