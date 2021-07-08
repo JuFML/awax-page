@@ -14,7 +14,7 @@ header {
     color:#FFF;
 }
 .header {
-    max-width:1140px;
+    max-width:1130px;
     height:100px;
     margin:auto;
     display:flex;
@@ -811,7 +811,7 @@ CSS DE ÁREAS ESPECÍFICAS
 
 
 
-@media (min-width:450px) and (max-width:800px) {
+@media (min-width:485px) and (max-width:960px) {
     .logo {
         margin-left: 30px;
     }
@@ -821,20 +821,23 @@ CSS DE ÁREAS ESPECÍFICAS
         margin-right: 30px;
     }
     nav {
-    display: none;
-    position: absolute;
-    background: rgba(0, 0, 0, 0.9);
-    top: 100px;
-    width: 75%;
-    height: calc(100vh - 100px);
+        display: none;
+        position: absolute;
+        background: rgba(0, 0, 0, 0.9);
+        top: 100px;
+        width: 50%;
+        height: calc(100vh - 100px);
+    }
+    .nav-open {
+        display: block;
     }
     .menu ul {
         flex-direction: column;
     }
     .menu li a {
         font-weight: bold;
-        height: 80px;
-        font-size: 20px;
+        height: 40px;
+        font-size: 17px;
         margin-left: 50px;
         border: 0;
     }
@@ -917,7 +920,7 @@ CSS DE ÁREAS ESPECÍFICAS
 }
 
 
-@media (max-width:450px) {
+@media (max-width:485px) {
     .logo {
         margin-left: 30px;
     }
@@ -934,13 +937,16 @@ CSS DE ÁREAS ESPECÍFICAS
         width: 80%;
         height: calc(100vh - 100px);
     }
+    .nav-open {
+        display: block;
+    }
     .menu ul {
         flex-direction: column;
     }
     .menu li a {
         font-weight: bold;
-        height: 60px;
-        font-size: 20px;
+        height: 40px;
+        font-size: 17px;
         margin-left: 30px;
         border: 0;
     }

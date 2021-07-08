@@ -1,9 +1,4 @@
 function openmenu() {
-    let menu = document.querySelector('nav');
+    document.querySelector('nav').classList.toggle('nav-open');
+};
 
-    if (menu.style.display === "none") {
-        menu.style.display = "block";
-    } else {
-        menu.style.display = "none";
-    }
-}
